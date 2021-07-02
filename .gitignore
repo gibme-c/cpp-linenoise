@@ -42,3 +42,6 @@ CMakeFiles
 CMakeCache.txt
 *.cmake
 history.txt
+
+.idea/
+cmake-build-*/
